@@ -1534,6 +1534,7 @@ class MoesHY368_Type1(TuyaThermostat):
             ("_TZE200_8whxpsiw", "TS0601"),
             ("_TZE200_8thwkzxl", "TS0601"),  # Tervix Pro Line EVA 2
             ("_TZE200_xby0s3ta", "TS0601"),  # Sandy Beach HY367
+            ("_TZE200_znlqjmih", "TS0601"),
         ],
         ENDPOINTS: {
             1: {
